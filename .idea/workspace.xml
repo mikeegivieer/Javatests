@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc745dae-4c33-4c44-9ed1-e95abba1393f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WAYKbR2GH3hleDSoigdraZoFVV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/platzi/javatests" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.platzi.javatests.movies.service" />
+      <recent name="com.platzi.javatests.fizzbuzz" />
+      <recent name="com.platzi.javatests.discounts" />
+      <recent name="com.platzi.javatests.util" />
+      <recent name="com.platzi.javatests.payments" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.platzi.javatests.movies" />
+      <recent name="com.platzi.javatests.payments" />
+      <recent name="com.platzi.javatests.player" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MovieServiceShould">
+    <configuration name="DateUtilLeapYearShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javatests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platzi.javatests.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platzi.javatests.util" />
+      <option name="MAIN_CLASS_NAME" value="com.platzi.javatests.util.DateUtilLeapYearShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javatests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platzi.javatests.fizzbuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platzi.javatests.fizzbuzz" />
+      <option name="MAIN_CLASS_NAME" value="com.platzi.javatests.fizzbuzz.FizzBuzzShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieServiceShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javatests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platzi.javatests.movies.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platzi.javatests.movies.service" />
+      <option name="MAIN_CLASS_NAME" value="com.platzi.javatests.movies.service.MovieServiceShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieServiceShould.return_movies_by_genere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javatests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platzi.javatests.movies.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platzi.javatests.movies.service" />
+      <option name="MAIN_CLASS_NAME" value="com.platzi.javatests.movies.service.MovieServiceShould" />
+      <option name="METHOD_NAME" value="return_movies_by_genere" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceCalculatorShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javatests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platzi.javatests.discounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platzi.javatests.discounts" />
+      <option name="MAIN_CLASS_NAME" value="com.platzi.javatests.discounts.PriceCalculatorShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MovieServiceShould" />
+        <item itemvalue="JUnit.MovieServiceShould.return_movies_by_genere" />
+        <item itemvalue="JUnit.FizzBuzzShould" />
+        <item itemvalue="JUnit.PriceCalculatorShould" />
+        <item itemvalue="JUnit.DateUtilLeapYearShould" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc745dae-4c33-4c44-9ed1-e95abba1393f" name="Default Changelist" comment="" />
+      <created>1578593803678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578593803678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="861" y="100" width="582" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1578688243329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="861" y="100" width="582" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1578688243329" />
+    <state x="958" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1578687967412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578687967412" />
+    <state width="724" height="208" key="GridCell.Tab.0.bottom" timestamp="1578688449416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578688449416" />
+    <state width="724" height="208" key="GridCell.Tab.0.center" timestamp="1578688449415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578688449415" />
+    <state width="724" height="208" key="GridCell.Tab.0.left" timestamp="1578688449415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578688449415" />
+    <state width="724" height="208" key="GridCell.Tab.0.right" timestamp="1578688449415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578688449415" />
+    <state x="327" y="112" key="SettingsEditor" timestamp="1578594015270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="327" y="112" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578594015270" />
+    <state x="968" y="194" key="chooseDestDirectoryDialog" timestamp="1578613349043">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="968" y="194" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1578613349043" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1578674080752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578674080752" />
+    <state x="924" y="119" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578687074306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="924" y="119" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1578687074306" />
+    <state x="479" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578594022909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578594022909" />
+  </component>
+</project>
